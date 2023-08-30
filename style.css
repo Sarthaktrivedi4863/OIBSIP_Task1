@@ -1,0 +1,413 @@
+#a1 {
+    background-color: rgba(125, 11, 173, 0.885);
+
+}
+
+#a2 {
+    float: left;
+    overflow: auto;
+}
+
+#a2 li {
+    list-style: none;
+    float: right;
+    color: white;
+    font-size: 18px;
+}
+
+#a3 li {
+    list-style: none;
+    float: right;
+    padding: 10px;
+}
+
+#a3 {
+    overflow: auto;
+}
+
+#a1 nav {
+    background-color: purple;
+
+}
+
+.aa {
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+#a4 {
+    height: 280px;
+    /* width: 410px; */
+    margin: auto;
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 100px;
+    color: white;
+    background-color: rgba(125, 11, 173, 0.885);
+}
+
+#a4 p {
+    font-size: 20px;
+    text-align: center;
+}
+
+#a4 button {
+    height: 30px;
+    width: 120px;
+    font-size: 15px;
+    box-shadow: 4px 4px 5px;
+
+}
+
+#a4 button:hover {
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#a4 button:active {
+    box-shadow: 0px 0px 0px;
+}
+
+.a5 {
+    text-align: center;
+}
+
+.a5 h1 {
+    text-decoration: underline;
+    color: rgb(85, 85, 232);
+}
+
+#b1 {
+    float: left;
+    width: 48%;
+    font-size: 12px;
+    padding: 20px;
+}
+
+#b2 {
+    float: left;
+    width: 47%;
+}
+
+h2 {
+    color: rgb(85, 85, 232);
+    text-align: left;
+}
+
+p {
+    text-align: left;
+    font-size: 12px;
+
+}
+
+#b2 img {
+    height: 400px;
+    width: 500px;
+}
+
+#b2 img:hover {
+    /* height: 403px; */
+    width: 505px;
+    cursor: pointer;
+}
+
+#c1 {
+    float: left;
+    width: 47%;
+    padding: 20px;
+}
+
+#c2 {
+    float: left;
+    width: 48%;
+}
+
+#c1 img {
+    height: 250px;
+    width: 300px;
+}
+
+#c1 img:hover {
+    cursor: pointer;
+    width: 475px;
+}
+
+.d1 {
+    float: left;
+    width: 48%;
+    padding: 20px;
+}
+
+.d2 {
+    float: left;
+    width: 47%;
+
+}
+
+.d2 img {
+    height: 250px;
+    width: 300px;
+}
+
+.d1 img {
+    height: 250px;
+    width: 300px;
+}
+
+.d1 img:hover {
+    cursor: pointer;
+    width: 485px;
+}
+
+.d2 img:hover {
+    cursor: pointer;
+    width: 475px;
+}
+
+.but1 {
+    background-color: rgb(85, 85, 232);
+    border-radius: 18px;
+    padding: 4px;
+    color: white;
+    width: 95px;
+    text-decoration: none;
+    border: none;
+
+}
+
+.but1:hover {
+    cursor: pointer;
+    width: 100px;
+}
+
+#iimgg {
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    border-radius: 50%;
+    margin-top: 400px;
+
+}
+
+#iimgg:hover {
+    cursor: pointer;
+}
+
+#intern {
+    text-align: center;
+    margin-top: 1800px;
+}
+
+#intern h1 {
+    text-decoration: underline;
+    color: rgb(85, 85, 232);
+}
+
+#intern img {
+    height: 100px;
+    width: 100px;
+}
+
+#intern img:hover {
+    height: 105px;
+    cursor: pointer;
+}
+
+#intern button {
+    background-color: rgb(85, 85, 232);
+    color: white;
+    width: 105px;
+    border-radius: 16px;
+    border: none;
+    margin-bottom: 5px;
+}
+
+#intern button:hover {
+    cursor: pointer;
+}
+
+#intern2 {
+    text-align: center;
+
+}
+
+body {
+    background-color: rgb(235, 249, 249);
+}
+
+.int {
+    display: inline-block;
+    width: 25%;
+    box-shadow: 4px 4px 5px;
+    padding: 5px;
+    margin: 20px;
+    background-color: rgb(199, 227, 227);
+}
+
+.int:hover {
+    background-color: rgb(235, 249, 249);
+}
+
+#intern2 img {
+    height: 100px;
+    width: 100px;
+}
+
+#intern2 img:hover {
+    height: 105px;
+    cursor: pointer;
+}
+
+#intern2 button {
+    background-color: rgb(85, 85, 232);
+    color: white;
+    width: 105px;
+    border-radius: 16px;
+    border: none;
+    margin-bottom: 5px;
+}
+
+#intern2 button:hover {
+    cursor: pointer;
+    width: 107px;
+}
+
+#conca {
+    margin-top: 70px;
+
+}
+
+#conca h1 {
+    text-decoration: underline;
+    color: rgb(85, 85, 232);
+}
+
+#conc1 {
+    width: 40%;
+    float: left;
+    margin-left: 100px;
+    box-shadow: 4px 4px 5px;
+}
+
+#conc2 {
+    width: 40%;
+    margin-right: 80px;
+    float: left;
+    box-shadow: 4px 4px 5px;
+}
+
+#conc1 img {
+    height: 305px;
+    width: 320px;
+}
+
+#conc1 img:hover {
+    height: 305px;
+    width: 320px;
+}
+
+#conc2 input {
+    margin: 15px;
+    margin-top: 0px;
+    float: left;
+    width: 300px;
+    padding-left: 10px;
+    background-color: rgb(240, 242, 224);
+    border: 1px solid black;
+}
+
+#conc2 textarea {
+    margin: 15px;
+    margin-top: 0px;
+    float: left;
+    width: 300px;
+    padding-left: 10px;
+    background-color: rgb(240, 242, 224);
+}
+
+#conc2 input[type="submit"] {
+    width: 100px;
+    text-align: center;
+    border-radius: 18px;
+    background-color: yellow;
+}
+
+#conc2 input:hover {
+    cursor: pointer;
+    background-color: lightcyan;
+}
+
+#conc2 textarea:hover {
+    cursor: pointer;
+    background-color: lightcyan;
+}
+
+#hh1 {
+    text-decoration: underline;
+    color: rgb(85, 85, 232);
+    text-align: center;
+}
+
+
+#ques {
+    padding: 30ppx;
+}
+
+.det {
+    margin-left: 115px;
+    /* background-color: rgb(240, 242, 224); */
+    background-color: rgb(199, 227, 227);
+    padding: 18px;
+    margin-right: 110px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.sum {
+    font-size: 18px;
+
+}
+
+
+.ppl {
+    font-size: 6px;
+}
+
+#ques:hover {
+    cursor: pointer;
+
+}
+
+.det:hover {
+    background-color: rgb(235, 249, 249);
+}
+
+#k56 {
+    background-color: rgb(25, 16, 16);
+    margin: auto;
+}
+
+.o9 {
+    display: inline-block;
+    width: 22%;
+    color: white;
+    margin-left: 10px
+}
+
+.o9 h4 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.o9 p {
+    text-decoration: none;
+    font-size: xx-small;
+    color: white;
+    text-align: center;
+}
+
+#k56 p {
+    color: white;
+    text-align: center;
+}
